@@ -1,5 +1,8 @@
 # XGBoost-VolMetrics-Crypto-Trading-Sim
 クリプト自動取引AIの説明とプログラム
+
+![グラフ](graph.png)
+
 # 🚀 ETH-JPY Hybrid Trading AI Portfolio
 XGBoostとGARCHモデルを組み合わせた、イーサリアム（ETH-JPY）の自動取引アルゴリズムです。
 
