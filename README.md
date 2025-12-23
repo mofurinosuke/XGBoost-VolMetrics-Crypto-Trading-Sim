@@ -1,3 +1,5 @@
+# プロジェクト名
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mofurinosuke/XGBoost-VolMetrics-Crypto-Trading-Sim/blob/main/XGboost_vol_model.ipynb)
 # XGBoost-VolMetrics-Crypto-Trading-Sim
 クリプト自動取引AIの説明とプログラム
 
